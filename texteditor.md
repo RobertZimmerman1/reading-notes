@@ -19,5 +19,23 @@ It is important to consider the types of programming and tasks one intends to pe
 - pwd : Print Working Directory
 - ls : List
 - ls Documents : List of "Documents"
+- ls -a : List of Directory, Including Hidden Files
 - cd : Change Directory
 - cd [location] : Change Directory [Argument]
+- file : Information About File or Directory
+- man <command> : Look Up the Manual Page for a Particular Command
+- /<term> : Within a Manual Page, Perform a Search for "Term>
+  mkdir : Create a Directory
+  rmdir : Delete a Directory
+  touch : Create a Blank File
+  cp : Copy a File or Directory
+  mv : Move a File or Directory
+  rm : Delete a File or Directory
+  ZZ : Save and Exit
+  q! : Discard All Changes Since Last Save, and Exit
+  w : Save File, Don't Exit
+  u : Undo Last Action
+  cat : View a File
+  vi : Edit a File
+  chmod : Change Permissions on File or Directory
+  ls -ld : View the Permissions on File or Directory
