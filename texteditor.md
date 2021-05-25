@@ -4,6 +4,6 @@ why its important for developers to be thoughtful about which text editor they u
 
 ---
 
-## Terminal Commands: * Cheat Sheet *
+## Terminal Commands: *Cheat Sheet*
 
 Notes on how commands are used in terminals
