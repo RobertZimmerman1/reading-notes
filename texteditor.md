@@ -1,6 +1,12 @@
 ## Text Editors
 
-why its important for developers to be thoughtful about which text editor they use to write their code:
+A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site. The text editor has to be one of the most important tools you can use as an aspiring web developer.
+
+~The Older Coder, "Choosing a Text Editor, 2011"
+
+Classifications:
+
+Why its important choose carefully
 
 ---
 
