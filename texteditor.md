@@ -15,4 +15,9 @@ It is important to consider the types of programming and tasks one intends to pe
 
 ## Terminal Commands: *Cheat Sheet*
 
-Notes on how commands are used in terminals
+- Up and Down Arrow : Recall Previously Used Commands
+- pwd : Print Working Directory
+- ls : List
+- ls Documents : List of "Documents"
+- cd : Change Directory
+- cd [location] : Change Directory [Argument]
