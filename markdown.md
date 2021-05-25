@@ -17,7 +17,10 @@ A growth mindset is a deliberate paradigm in which a person views their ability 
 
 My name is Robert Zimmerman.  I have the sweetest Bernese Mountain Dog.  She is three years old but she believes she is 8 weeks old.  I am husband to a beautiful wife who is, fortunately for me, incredibly patient.  I served in the United States Marine Corps.  I aspire to a career change into software development and I am very excited for the journey.
 
+
 ![Bernese Mountain Dog](https://www.perfectdogbreeds.com/wp-content/uploads/2019/10/Bernese-Mountain-Dog.jpg)
+
+*(Not an actual picture of Black Cassidy)*
 
 GitHub: https://github.com/RobertZimmerman1
 
