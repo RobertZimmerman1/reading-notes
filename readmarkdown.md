@@ -5,6 +5,6 @@ Markdown is a lightweight programming language.  It is used on the GitHub platfo
 ### Examples of Markdown Syntax:
 - # : Header 1
 - ## Header 2
-- *This* : *Italic*
-- **This** : **Bold** 
+- * * : *Italic*
+- ** ** : **Bold** 
 - 
