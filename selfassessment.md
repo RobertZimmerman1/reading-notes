@@ -9,3 +9,5 @@
 - **Incremental Delivery:** I am averse to turning in parts of a project before the project's completion as a whole, preferring rather to complete the project in drafts and iterating revisions.  I understand this will not be possible as a software developer.  Additionally, I understand without incremental deliverable I'm likely robbing the project of early feedback and collaboration. 
 - **Networking:** I prefer to be introverted 90% of the time.  I understand theoretically just how vital networking is to success but I really don't want to put the work in.  This is one of my biggest shortcomings and I know that I'm going to have to work to change my mindset.
 - **Tool Proficiency:** I have almost no experience or training in software development.  I am unfamiliar with the tools and best-practices.  I hope to make good progress with this proficiency over the next four months during my training.
+
+[Back <==](reading-notes.md)
