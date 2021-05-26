@@ -40,4 +40,4 @@ It is important to consider the types of programming and tasks one intends to pe
 - chmod : Change Permissions on File or Directory
 - ls -ld : View the Permissions on File or Directory
 
-  [Back <==](reading-notes.md)
+[Back <==](README.md)
