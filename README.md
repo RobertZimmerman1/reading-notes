@@ -10,7 +10,7 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 3. [Reading Markdown](readmarkdown.md)
 4. [Reflection and Discussion](reflectiondiscussion.md)
 5. [Text Editor](texteditor.md)
-6. []()
+6. [Wire Framing](wireframing.md)
 7. []()
 8. []()
 9. []()
