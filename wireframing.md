@@ -6,7 +6,7 @@ Wire framing is one method of planning the layout of a website at the beginning 
 
 Ideally, the wire framing sketch should take no more than 5 - 10 minutes for most websites.
 
-**Common Elements in Wire Framing**
+### Common Elements in Wire Framing
 - Login Field
 - Forgot Password Field
 - Alternative Login Options
@@ -18,7 +18,7 @@ Ideally, the wire framing sketch should take no more than 5 - 10 minutes for mos
 
 HTML or Hypertext Markup Language is a language used to define the content of websites.  It is characterized by the use of tags to differentiate between types of elements, includes classes and id's used in targeting and is organized in a nested structure.
 
-**Examples of Types of Tags**
+### Examples of Types of Tags
 - `<!DOCTYPE>`
 - `<html>`
 - `<head>`
