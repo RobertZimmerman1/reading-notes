@@ -15,4 +15,4 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 
 ### Table of Contents 201
 
-1. [Intro HTML](read-02.md)
+1. [Intro HTML, CSS & JavaScript](read-02.md)
