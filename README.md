@@ -21,3 +21,4 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 2. [Intro HTML, CSS & JavaScript](201class-02.md)
 3. []()
 4. [HTML Links, CSS Layout, JS Functions](201class-04.md)
+5. [HTML Images; CSS Color & Text](201class-05.md)
