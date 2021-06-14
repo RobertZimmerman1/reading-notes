@@ -17,8 +17,8 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 
 ### Code 201 Reading Notes
 
-1. []()
-2. [Intro HTML, CSS & JavaScript](201class-02.md)
+1. [Introductory HTML and Javascript](201class-01)
+2. [Basics of HTML, CSS and JS](201class-02.md)
 3. []()
 4. [HTML Links, CSS Layout, JS Functions](201class-04.md)
 5. [HTML Images; CSS Color & Text](201class-05.md)
