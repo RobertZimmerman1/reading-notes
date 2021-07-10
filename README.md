@@ -1,12 +1,12 @@
 # Reading Notes
 
-### About Me:
+## About Me:
 
 My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, white and naughty all over. My wife Stephanie is very beautiful and very bossy. Our brand new kitten Nova is a maniacal suicide machine. We got her so that she could hunt the gopher garden-terrorists in our yard. Nova enjoys napping, chewing on power cords and trying to climb into the oven... _I think the gophers are going to win._ I served in the United States Marine Corps. I aspire to a career change into software development and I am very excited for the journey.
 
 ---
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 
 1. [Self Assessment](selfassessment.md)
 2. [Markdown](markdown.md)
@@ -17,7 +17,7 @@ My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, w
 
 ---
 
-### Code 201 Reading Notes
+## Code 201 Reading Notes
 
 1. [Introductory HTML and Javascript](201class-01)
 2. [Basics of HTML, CSS and JS](201class-02.md)
@@ -37,8 +37,8 @@ My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, w
 
 ---
 
-### Code 301 Reading Notes
+## Code 301 Reading Notes
 
 ---
 
-### Code 401 Reading Notes
+## Code 401 Reading Notes
