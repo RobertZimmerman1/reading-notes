@@ -2,7 +2,7 @@
 
 ### About Me:
 
-My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is three years old but she believes she is 8 weeks old. I am husband to a beautiful wife who is, fortunately for me, incredibly patient. I served in the United States Marine Corps. I aspire to a career change into software development and I am very excited for the journey.
+My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, white and naughty all over. My wife Stephanie is very beautiful and very bossy. Our brand new kitten Nova is a maniacal suicide machine. We got her so that she could hunt the gopher garden-terrorists in our yard. Nova enjoys napping, chewing on power cords and trying to climb into the oven... _I think the gophers are going to win._ I served in the United States Marine Corps. I aspire to a career change into software development and I am very excited for the journey.
 
 ---
 
@@ -14,6 +14,8 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 4. [Reflection and Discussion](reflectiondiscussion.md)
 5. [Text Editor](texteditor.md)
 6. [Wire Framing](wireframing.md)
+
+---
 
 ### Code 201 Reading Notes
 
@@ -32,3 +34,11 @@ My name is Robert Zimmerman. I have the sweetest Bernese Mountain Dog. She is th
 13. [Local Storage](201class-13.md)
 14. [What Google Learned About Teams](201class-14a.md)
 15. [CSS Transforms, Transitions and Animations](201class-14b.md)
+
+---
+
+### Code 301 Reading Notes
+
+---
+
+### Code 401 Reading Notes
