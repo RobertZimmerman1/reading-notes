@@ -19,7 +19,7 @@ My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, w
 
 ## Code 201 Reading Notes
 
-1. [Introductory HTML and Javascript](201class-01)
+1. [Introductory HTML and Javascript](201class-01.md)
 2. [Basics of HTML, CSS and JS](201class-02.md)
 3. [HTML Lists, Control Flow with JS, and CSS Box Model](201class-03.md)
 4. [HTML Links, CSS Layout, JS Functions](201class-04.md)
@@ -39,6 +39,37 @@ My name is Robert Zimmerman. Cassidy, my bernese mountain dog is brown, black, w
 
 ## Code 301 Reading Notes
 
+1. [Introduction to React and Components](301class-01.md)
+2. [State and Props](301class-02.md)
+3. [Passing Functions as Props](301class-03.md)
+4. [React and Forms](301class-04.md)
+5. [Putting it All Together](301class-05.md)
+6. [Node.js](301class-06.md)
+7. [REST](301class-07.md)
+8. [APIs](301class-08.md)
+9. [Functional Programming](301class-09.md)
+10. [In Memory Storage](301class-10.md)
+11. [Authentication](301class-11.md)
+12. [Mongo and Mongoose](301class-12.md)
+13. [CRUD](301class-13.md)
+14. [Diversity & Inclusion in the Tech Industry](301class-14.md)
+
 ---
 
 ## Code 401 Reading Notes
+
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
